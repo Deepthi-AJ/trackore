@@ -1,0 +1,20 @@
+
+I forget many tasks which I have and even when I know my tasks , I don't want to get my work done when I am feeling lazy.
+I need a App for this in which:-
+
+	-> I could log in or sign up from my email and password
+	-> Add particular tasks which I have to do within a particular time(the time will be set by the user)
+	-> After I complete all my task. I also want to view all of them which will give me a good feeling that I have done this much and can do more.
+	-> For my motivation, I want the app to give me some points after completing a task and when I reach a particular target, I get some sort of reward
+	-> I also want to update my profile and the settings regularly if required
+	-> I also want to put my own profile picture
+	-> I want the app to give me remainders to complete my tasks and If the due date is past then as well.
+	-> When I am done using the app. I want to log out so that someone else can't access to this information with the same device
+
+	
+
+	-> Welcome Screen- the title of the app and the sign in option
+	-> Log In/Sign Up screen
+	-> Registration Screen
+	-> Main App Screen:- App Drawer, Tab navigator- My Tasks, Completed etc.
+	
