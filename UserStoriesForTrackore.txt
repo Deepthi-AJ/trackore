@@ -16,5 +16,8 @@ I need a App for this in which:-
 	-> Welcome Screen- the title of the app and the sign in option
 	-> Log In/Sign Up screen
 	-> Registration Screen
-	-> Main App Screen:- App Drawer, Tab navigator- My Tasks, Completed etc.
+	-> Main App Screen:- 
+		App Drawer- Profile picture, updateProfileScreen, settingsScreen, log out
+		Tab navigator- MyTasksScreen, CompletedTasksScreen
+
 	
